@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-coming-soon-page",
+  "version": "1.0.0",
+  "description": " Nodejs Coming Soon Page",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "hbs": "^4.0.1",
+    "mongoose": "^5.0.9",
+    "morgan": "^1.9.0",
+    "request": "^2.83.0"
+  }
+}
